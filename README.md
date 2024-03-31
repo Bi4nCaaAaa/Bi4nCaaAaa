@@ -1,7 +1,6 @@
-<div align="center">
-Olá! Eu sou o Felipe Garcia 
-  </div>
-  
+
+### Olá! Eu sou o Felipe Garcia 
+ 
 ---
 
 <div align="center">
