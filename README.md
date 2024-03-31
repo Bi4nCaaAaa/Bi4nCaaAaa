@@ -1,4 +1,8 @@
-### Olá! Eu sou o Felipe Garcia 
+<div align="center">
+Olá! Eu sou o Felipe Garcia 
+  </div>
+  
+---
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
@@ -6,5 +10,6 @@
   </a>
 </div>
 
+---
 
 [![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=Bi4nCaaAaa&show_Icons=true&theme=graywhite)](https://github.com/Bi4nCaaAaa/github-readme-stats)
