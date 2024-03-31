@@ -1,6 +1,6 @@
 <div align="center"> 
     
-# Olá!<span style="color:o #fff"> Eu sou o Felipe Garcia </span> 
+# Bem Vindo!<span style="color:o #fff"> Eu sou o Felipe Garcia ;) </span> 
  </div>
  
 ---
