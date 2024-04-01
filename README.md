@@ -1,9 +1,8 @@
-<div align="center"> 
-    
-# Bem Vindo!<span style="color:o #fff"> Eu sou o Felipe Garcia ;) </span> 
- </div>
- 
----
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Bem+Vindo!+;+Sou+o+Felipe+Garcia+;+🖤🖤🖤" />
+</h1>
+
+
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
@@ -12,9 +11,6 @@
 </div>
 
 ---
-
-
-
 
 <div align="center"> 
     
