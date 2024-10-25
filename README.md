@@ -12,7 +12,7 @@
       alt="Bi4nCaaAaa github stats" /> 
        <img
        min-width="350px" max-width="400px" width="350px"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Bi4nCaaAaa&theme=dark&hide_border=true&bg_color=0d1117e"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Bi4nCaaAaa&theme=dark&hide_border=true&bg_color=0d1117e&hide_border=false&border_radius=5&order=3"
         alt="Github Stats"
       />
 </div> 
