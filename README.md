@@ -8,7 +8,7 @@
     
   <img 
        min-width="350px" max-width="400px" width="350px"
-      src="https://github-readme-stats.vercel.app/api?username=Bi4nCaaAaa&theme=dark&show_icons=true&count_private=true&hide_border=true&title_color=cdd2ff&icon_color=cdd2ff&text_color=red"
+      src="https://github-readme-stats.vercel.app/api?username=Bi4nCaaAaa&theme=dark&show_icons=true&count_private=true&hide_border=true&title_color=cdd2ff&icon_color=cdd2ff&text_color=cdd2ff"
       alt="Bi4nCaaAaa github stats" /> 
        <img
        min-width="350px" max-width="400px" width="350px"
