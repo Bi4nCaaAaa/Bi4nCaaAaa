@@ -8,11 +8,11 @@
     
   <img 
        min-width="350px" max-width="400px" width="350px"
-      src="https://github-readme-stats.vercel.app/api?username=Bi4nCaaAaa&theme=dark&show_icons=true&count_private=true&hide_border=true&title_color=cdd2ff&icon_color=cdd2ff&text_color=cdd2ff"
+      src="https://github-readme-stats.vercel.app/api?username=Bi4nCaaAaa&theme=dark&show_icons=true&count_private=true&hide_border=false&border_radius=5&order=3&title_color=cdd2ff&icon_color=cdd2ff&text_color=cdd2ff"
       alt="Bi4nCaaAaa github stats" /> 
        <img
        min-width="350px" max-width="400px" width="350px"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Bi4nCaaAaa&theme=dark&hide_border=true&bg_color=0d1117e&hide_border=false&border_radius=5&order=3"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Bi4nCaaAaa&theme=dark&bg_color=0d1117e&hide_border=false&border_radius=5&order=3"
         alt="Github Stats"
       />
 </div> 
